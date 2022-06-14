@@ -6,3 +6,4 @@ The raw data is obtained from [Kaggle](https://www.kaggle.com/datasets/wordsfort
 
 ## 1.  Data Clean
 
+The source code for this part is provided here &rarr; [Part1_Data_Clean.ipynb](./Code/Part1_Data_Clean.ipynb)
