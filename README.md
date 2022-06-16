@@ -1,4 +1,4 @@
-[TOC]
+[[_TOC_]]
 
 # ESE_MSc_Thesis
 
