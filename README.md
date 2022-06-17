@@ -22,6 +22,14 @@ Logistic model is provided here &rarr; [Part3_Logistic_Model.ipynb](./Code/Part
 
 ### 3.2 Random Forest Model
 
+The random forest model is provided &rarr; [Part4_RF_Model.ipynb](../Code/Part4_RF_Model.ipynb)
+
 ### 3.3 Deep Neural Network Model
 
 DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Model.ipynb). 
+
+
+
+Questions:
+
+**June 6**: How to create confusion matrix when using PyTorch to build up deep learning model.  Because the outputs are probability, we can't directly compare with test target values.  I tried to convert them using `argmax() `, but in the end the problem is still not solved. 
