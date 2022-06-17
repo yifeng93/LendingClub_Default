@@ -20,3 +20,8 @@ After the first stage data clean, I did further feature engineering in this part
 
 Logistic model is provided here &rarr; [Part3_Logistic_Model.ipynb](./Code/Part3_Logistic_Model.ipynb). In this file, I also tried panelized logistic regression(LASSO) to compare the results.  
 
+### 3.2 Random Forest Model
+
+### 3.3 Deep Neural Network Model
+
+DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Model.ipynb). 
