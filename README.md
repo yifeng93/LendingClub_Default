@@ -33,3 +33,17 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
 ### 3.4 Questions
 
 **June 6**: How to create confusion matrix when using PyTorch to build up deep learning model.  Because the outputs are probability, we can't directly compare with test target values.  I tried to convert them using `argmax() `, but in the end the problem is still not solved. 
+
+>**June 6 Question SOLVED**: we need to transform `y_pred` from numpy ndarray to tensor, and then apply `argmax()` to save it as a new long tensor. In the end, we can use `ConfusionMatrix` from `torchmetrics` to do it directly. 
+
+```python
+from torchmetrics import ConfusionMatrix
+
+Y_PREDICT = torch.argmax(torch.tensor(y_pred), dim=1)
+
+confmat = ConfusionMatrix(num_classes=2)
+confmat(Y_PREDICT, y_test)
+```
+
+
+
