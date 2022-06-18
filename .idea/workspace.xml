@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1912acc-4e82-4a4f-b654-f9632342bf05" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Part5_DNN_Model-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Part5_DNN_Model-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Part3_Logistic_Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Part3_Logistic_Model.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Part5_DNN_Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Part5_DNN_Model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +46,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/OneDrive - Erasmus University Rotterdam/MasterThesis/Thesis_Lending_Club/ESE_MSc_Thesis/Code",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive - Erasmus University Rotterdam\MasterThesis\Thesis_Lending_Club\ESE_MSc_Thesis\Code" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="ESE_MSc_Thesis" />
@@ -119,6 +128,7 @@
       <workItem from="1655380312885" duration="974000" />
       <workItem from="1655453178929" duration="750000" />
       <workItem from="1655490885414" duration="615000" />
+      <workItem from="1655572904116" duration="1640000" />
     </task>
     <servers />
   </component>
