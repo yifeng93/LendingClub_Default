@@ -91,6 +91,153 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
     <td></td>
     <td></td>
   </tr>
+      <tr>
+    <td rowspan="8">Logit</td>
+    <td rowspan="2">N</td>
+    <td rowspan="2">N</td>
+    <td></td>
+    <td></td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Y</td>
+    <td rowspan="2">N</td>
+    <td></td>
+    <td></td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">N</td>
+    <td rowspan="2">Y</td>
+    <td></td>
+    <td></td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">N</td>
+    <td rowspan="2">N</td>
+    <td></td>
+    <td></td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+      <tr>
+    <td rowspan="8">Logit</td>
+    <td rowspan="2">N</td>
+    <td rowspan="2">N</td>
+    <td></td>
+    <td></td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Y</td>
+    <td rowspan="2">N</td>
+    <td></td>
+    <td></td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">N</td>
+    <td rowspan="2">Y</td>
+    <td></td>
+    <td></td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">N</td>
+    <td rowspan="2">N</td>
+    <td></td>
+    <td></td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+      <tr>
+    <td rowspan="8">Logit</td>
+    <td rowspan="2">N</td>
+    <td rowspan="2">N</td>
+    <td></td>
+    <td></td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Y</td>
+    <td rowspan="2">N</td>
+    <td></td>
+    <td></td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">N</td>
+    <td rowspan="2">Y</td>
+    <td></td>
+    <td></td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">N</td>
+    <td rowspan="2">N</td>
+    <td></td>
+    <td></td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
 </tbody>
 </table>
 
