@@ -46,26 +46,26 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
     <td rowspan="8">Logit</td>
     <td rowspan="2">N</td>
     <td rowspan="2">N</td>
-    <td></td>
-    <td></td>
-    <td rowspan="2"></td>
-    <td rowspan="2"></td>
+    <td>1</td>
+    <td>2</td>
+    <td rowspan="2">3</td>
+    <td rowspan="2">4</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td rowspan="2">Y</td>
     <td rowspan="2">N</td>
-    <td></td>
-    <td></td>
+    <td>7</td>
+    <td>68</td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td rowspan="2">N</td>
