@@ -43,55 +43,103 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2">Logit</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td rowspan="4">Logit</td>
+    <td>N</td>
+    <td>N</td>
+    <td>12</td>
+    <td>32</td>
+    <td>1</td>
+    <td>13</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Y</td>
+    <td>N</td>
+    <td>432</td>
+    <td>232</td>
+    <td>2</td>
+    <td>14</td>
   </tr>
   <tr>
-    <td rowspan="2">RF</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>N</td>
+    <td>Y</td>
+    <td>a</td>
+    <td>b</td>
+    <td>3</td>
+    <td>15</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Y</td>
+    <td>Y</td>
+    <td>c</td>
+    <td>d</td>
+    <td>4</td>
+    <td>16</td>
   </tr>
   <tr>
-    <td rowspan="2">DNN</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td rowspan="4">RF</td>
+    <td>N</td>
+    <td>N</td>
+    <td>e</td>
+    <td>f</td>
+    <td>5</td>
+    <td>17</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Y</td>
+    <td>N</td>
+    <td>g</td>
+    <td>h</td>
+    <td>6</td>
+    <td>18</td>
+  </tr>
+  <tr>
+    <td>N</td>
+    <td>Y</td>
+    <td>i</td>
+    <td>j</td>
+    <td>7</td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td>Y</td>
+    <td>Y</td>
+    <td>k</td>
+    <td>l</td>
+    <td>8</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Logit</td>
+    <td>N</td>
+    <td>N</td>
+    <td>m</td>
+    <td>n</td>
+    <td>9</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>Y</td>
+    <td>N</td>
+    <td>o</td>
+    <td>p</td>
+    <td>10</td>
+    <td>22</td>
+  </tr>
+  <tr>
+    <td>N</td>
+    <td>Y</td>
+    <td>q</td>
+    <td>r</td>
+    <td>11</td>
+    <td>23</td>
+  </tr>
+  <tr>
+    <td>Y</td>
+    <td>Y</td>
+    <td>s</td>
+    <td>t</td>
+    <td>12</td>
+    <td>24</td>
   </tr>
 </tbody>
 </table>
