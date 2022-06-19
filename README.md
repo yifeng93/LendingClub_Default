@@ -144,14 +144,14 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
     <td rowspan="8">DNN</td>
     <td rowspan="2">N</td>
     <td rowspan="2">N</td>
-    <td></td>
-    <td></td>
-    <td rowspan="2"></td>
-    <td rowspan="2"></td>
+    <td>46,862</td>
+    <td>371</td>
+    <td rowspan="2">0.894</td>
+    <td rowspan="2">F1DNN</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>8,518</td>
+    <td>310</td>
   </tr>
   <tr>
     <td rowspan="2">Y</td>
