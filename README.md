@@ -43,7 +43,7 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
 </thead>
 <tbody>
   <tr>
-    <td rowspan="8">Logit</td>
+    <td rowspan="8"><strong>Logit</strong></td>
     <td rowspan="2">N</td>
     <td rowspan="2">N</td>
     <td>1</td>
@@ -92,7 +92,7 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
     <td></td>
   </tr>
       <tr>
-    <td rowspan="8">RF</td>
+    <td rowspan="8"><strong>RF</strong></td>
     <td rowspan="2">N</td>
     <td rowspan="2">N</td>
     <td></td>
@@ -141,7 +141,7 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
     <td></td>
   </tr>
       <tr>
-    <td rowspan="8">DNN</td>
+    <td rowspan="8"><strong>DNN</strong></td>
     <td rowspan="2">N</td>
     <td rowspan="2">N</td>
     <td>46,862</td>
@@ -191,6 +191,7 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
   </tr>
 </tbody>
 </table>
+
 
 ### 3.5 Questions
 
