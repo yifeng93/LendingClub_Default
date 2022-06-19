@@ -26,7 +26,16 @@ The random forest model is provided &rarr; [Part4_RF_Model.ipynb](../Code/Part4
 
 ### 3.3 Deep Neural Network Model
 
-DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Model.ipynb). 
+DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Model.ipynb).  The resulting DNN parameters are as following:
+
+|   Parameter   | Value |      Notes      |
+| :-----------: | :---: | :-------------: |
+| Nodes(Layer1) |       | Fully Connected |
+| Nodes(Layer1) |       | Fully Connected |
+| Nodes(Layer1) |       | Fully Connected |
+|               |       |                 |
+
+
 
 ### 3.4  Results
 
@@ -143,7 +152,7 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
       <tr>
     <td rowspan="8"><strong>DNN</strong></td>
     <td rowspan="2">N</td>
-    <td rowspan="2">N</td>
+    <td rowspan="2">Y</td>
     <td>46,862</td>
     <td>371</td>
     <td rowspan="2">0.894</td>
@@ -155,30 +164,30 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
   </tr>
   <tr>
     <td rowspan="2">Y</td>
-    <td rowspan="2">N</td>
-    <td></td>
-    <td></td>
-    <td rowspan="2"></td>
-    <td rowspan="2"></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td rowspan="2">N</td>
     <td rowspan="2">Y</td>
-    <td></td>
-    <td></td>
-    <td rowspan="2"></td>
-    <td rowspan="2"></td>
+    <td>33,470</td>
+    <td>12,763</td>
+    <td rowspan="2">0.759</td>
+    <td rowspan="2">F1dNN</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>3,991</td>
+    <td>4,837</td>
   </tr>
   <tr>
     <td rowspan="2">N</td>
+    <td rowspan="2">N</td>
+    <td></td>
+    <td></td>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Y</td>
     <td rowspan="2">N</td>
     <td></td>
     <td></td>
@@ -191,6 +200,7 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
   </tr>
 </tbody>
 </table>
+
 
 
 ### 3.5 Questions
