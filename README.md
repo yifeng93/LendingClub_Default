@@ -28,14 +28,15 @@ The random forest model is provided &rarr; [Part4_RF_Model.ipynb](../Code/Part4
 
 DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Model.ipynb).  The resulting DNN parameters are as following:
 
-|   Parameter   |    Value     |  Notes  |
-| :-----------: | :----------: | :-----: |
-|   optimizer   |     Adam     |         |
-| Nodes(Layer1) |  (116,200)   |  relu   |
-| Nodes(Layer2) |  (200, 300)  |  relu   |
-| Nodes(Layer3) |   (300, 2)   | softmax |
-| loss function | CrossEntropy |         |
-| learning rate |    0.001     |         |
+|   Parameter   |    Value     |    Notes     |
+| :-----------: | :----------: | :----------: |
+|   optimizer   |     Adam     |              |
+| Nodes(Layer1) |  (116,200)   |     relu     |
+| Nodes(Layer2) |  (200, 300)  |     relu     |
+| Nodes(Layer3) |   (300, 2)   |   softmax    |
+| loss function | CrossEntropy |              |
+| learning rate |    0.001     |              |
+|     Epoch     |     100      | threshold:90 |
 
 
 
@@ -191,14 +192,14 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
   <tr>
     <td rowspan="2">Y</td>
     <td rowspan="2">N</td>
-    <td></td>
-    <td></td>
-    <td rowspan="2"></td>
-    <td rowspan="2"></td>
+    <td>27,597</td>
+    <td>11,519</td>
+    <td rowspan="2">0.747</td>
+    <td rowspan="2">F1</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>3,376</td>
+    <td>3,802</td>
   </tr>
 </tbody>
 </table>
