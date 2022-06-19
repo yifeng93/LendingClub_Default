@@ -28,12 +28,14 @@ The random forest model is provided &rarr; [Part4_RF_Model.ipynb](../Code/Part4
 
 DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Model.ipynb).  The resulting DNN parameters are as following:
 
-|   Parameter   | Value |      Notes      |
-| :-----------: | :---: | :-------------: |
-| Nodes(Layer1) |       | Fully Connected |
-| Nodes(Layer1) |       | Fully Connected |
-| Nodes(Layer1) |       | Fully Connected |
-|               |       |                 |
+|   Parameter   |    Value     |  Notes  |
+| :-----------: | :----------: | :-----: |
+|   optimizer   |     Adam     |         |
+| Nodes(Layer1) |  (116,200)   |  relu   |
+| Nodes(Layer2) |  (200, 300)  |  relu   |
+| Nodes(Layer3) |   (300, 2)   | softmax |
+| loss function | CrossEntropy |         |
+| learning rate |    0.001     |         |
 
 
 
