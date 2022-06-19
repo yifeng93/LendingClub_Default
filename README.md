@@ -50,58 +50,58 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
     <th>Outliers</th>
     <th colspan="2">Confusion Matrix</th>
     <th>AUC</th>
-    <th>f1</th>
+    <th>f1(default)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td rowspan="8"><strong>Logit</strong></td>
     <td rowspan="2">N</td>
-    <td rowspan="2">N</td>
-    <td>1</td>
-    <td>2</td>
-    <td rowspan="2">3</td>
-    <td rowspan="2">4</td>
+    <td rowspan="2">Y</td>
+    <td>46,245</td>
+    <td>988</td>
+    <td rowspan="2">0.53</td>
+    <td rowspan="2">0.14</td>
   </tr>
   <tr>
-    <td>5</td>
-    <td>6</td>
+    <td>8,063</td>
+    <td>765</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Y</td>
+    <td rowspan="2">Y</td>
+    <td>30,991</td>
+    <td>16,242</td>
+    <td rowspan="2">0.65</td>
+    <td rowspan="2">0.37</td>
+  </tr>
+  <tr>
+    <td>3,178</td>
+    <td>5,650</td>
   </tr>
   <tr>
     <td rowspan="2">Y</td>
     <td rowspan="2">N</td>
-    <td>7</td>
-    <td>68</td>
-    <td rowspan="2"></td>
-    <td rowspan="2"></td>
+    <td>25,208</td>
+    <td>13,908</td>
+    <td rowspan="2">0.64</td>
+    <td rowspan="2">0.36</td>
   </tr>
   <tr>
-    <td>7</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td rowspan="2">N</td>
-    <td rowspan="2">Y</td>
-    <td></td>
-    <td></td>
-    <td rowspan="2"></td>
-    <td rowspan="2"></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
+    <td>2,553</td>
+    <td>4,625</td>
   </tr>
   <tr>
     <td rowspan="2">N</td>
     <td rowspan="2">N</td>
-    <td></td>
-    <td></td>
-    <td rowspan="2"></td>
-    <td rowspan="2"></td>
+    <td>39,033</td>
+    <td>83</td>
+    <td rowspan="2">0.50</td>
+    <td rowspan="2">0.01</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>7,139</td>
+    <td>39</td>
   </tr>
       <tr>
     <td rowspan="8"><strong>RF</strong></td>
@@ -180,14 +180,14 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
   <tr>
     <td rowspan="2">N</td>
     <td rowspan="2">N</td>
-    <td></td>
-    <td></td>
-    <td rowspan="2"></td>
-    <td rowspan="2"></td>
+    <td>39,116</td>
+    <td>0</td>
+    <td rowspan="2">0.893</td>
+    <td rowspan="2">F1DFF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>7,178</td>
+    <td>0</td>
   </tr>
   <tr>
     <td rowspan="2">Y</td>
@@ -203,6 +203,7 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
   </tr>
 </tbody>
 </table>
+
 
 
 
