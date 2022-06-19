@@ -209,4 +209,4 @@ confmat(Y_PREDICT, y_test)
 
 
 
-**June 17**: Why the performance for 
+**June 17**: Why the performance for NO SMOTE is worse than with SMOTE in logistic model. In most cases, SMOTE will decrease the performance when we have imbalanced data but increase the CALL score. I don't understand why in logistic model it is the other way around. 
