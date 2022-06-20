@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c1912acc-4e82-4a4f-b654-f9632342bf05" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/Code/Part3_Logistic_Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Part3_Logistic_Model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Part4_RF_Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Part4_RF_Model.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Part5_DNN_Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Part5_DNN_Model.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,6 +129,7 @@
       <workItem from="1655572904116" duration="2858000" />
       <workItem from="1655582213915" duration="637000" />
       <workItem from="1655621403169" duration="622000" />
+      <workItem from="1655638026472" duration="621000" />
     </task>
     <servers />
   </component>
