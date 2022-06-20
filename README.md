@@ -208,7 +208,7 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
 
 
 
-### 3.5 Questions
+## 4 Questions
 
 **June 6**: How to create confusion matrix when using PyTorch to build up deep learning model.  Because the outputs are probability, we can't directly compare with test target values.  I tried to convert them using `argmax() `, but in the end the problem is still not solved. 
 
@@ -226,3 +226,11 @@ confmat(Y_PREDICT, y_test)
 
 
 **June 17**: Why the performance for NO SMOTE is worse than with SMOTE in logistic model. In most cases, SMOTE will decrease the performance when we have imbalanced data but increase the CALL score. I don't understand why in logistic model it is the other way around. 
+
+
+
+**June 18**: No outliers and no SMOTE for DNN, why FP and TN are all 0?  This is very strange. 
+
+
+
+**June 19**: How to speed up SHAP computing for DNN model. 
