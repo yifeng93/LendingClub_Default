@@ -49,7 +49,7 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
     <th>SMOTE</th>
     <th>Outliers</th>
     <th colspan="2">Confusion Matrix</th>
-    <th>AUC</th>
+    <th>MCC</th>
     <th>F1</th>
   </tr>
 </thead>
@@ -58,151 +58,152 @@ DNN model is provided here &rarr; [Part5_DNN_Model.ipynb](../Code/Part5_DNN_Mod
     <td rowspan="8"><strong>Logit</strong></td>
     <td rowspan="2">N</td>
     <td rowspan="2">Y</td>
-    <td>46,245</td>
-    <td>988</td>
-    <td rowspan="2">0.53</td>
-    <td rowspan="2">0.91</td>
-  </tr>
-  <tr>
-    <td>8,063</td>
     <td>765</td>
+    <td>8,063</td>
+    <td rowspan="2">0.14</td>
+    <td rowspan="2">0.15</td>
+  </tr>
+  <tr>
+    <td>988</td>
+    <td>46,245</td>
   </tr>
   <tr>
     <td rowspan="2">Y</td>
     <td rowspan="2">Y</td>
-    <td>30,991</td>
-    <td>16,242</td>
-    <td rowspan="2">0.65</td>
-    <td rowspan="2">0.76</td>
-  </tr>
-  <tr>
-    <td>3,178</td>
     <td>5,650</td>
+    <td>3,178</td>
+    <td rowspan="2">0.22</td>
+    <td rowspan="2">0.37</td>
+  </tr>
+  <tr>
+    <td>16,242</td>
+    <td>30,991</td>
   </tr>
   <tr>
     <td rowspan="2">Y</td>
     <td rowspan="2">N</td>
-    <td>25,208</td>
-    <td>13,908</td>
-    <td rowspan="2">0.64</td>
-    <td rowspan="2">0.75</td>
-  </tr>
-  <tr>
-    <td>2,553</td>
     <td>4,625</td>
+    <td>2,553</td>
+    <td rowspan="2">0.21</td>
+    <td rowspan="2">0.36</td>
+  </tr>
+  <tr>
+    <td>13,908</td>
+    <td>25,208</td>
   </tr>
   <tr>
     <td rowspan="2">N</td>
     <td rowspan="2">N</td>
-    <td>39,033</td>
-    <td>83</td>
-    <td rowspan="2">0.50</td>
-    <td rowspan="2">0.92</td>
-  </tr>
-  <tr>
-    <td>7,139</td>
     <td>39</td>
+    <td>7,139</td>
+    <td rowspan="2">0.02</td>
+    <td rowspan="2">0.01</td>
+  </tr>
+  <tr>
+    <td>83</td>
+    <td>39,033</td>
   </tr>
       <tr>
     <td rowspan="8"><strong>RF</strong></td>
     <td rowspan="2">N</td>
     <td rowspan="2">Y</td>
-    <td>46,169</td>
-    <td>1,064</td>
-    <td rowspan="2">0.54</td>
-    <td rowspan="2">0.91</td>
-  </tr>
-  <tr>
-    <td>7,999</td>
     <td>829</td>
+    <td>7,999</td>
+    <td rowspan="2">0.14</td>
+    <td rowspan="2">0.15</td>
+  </tr>
+  <tr>
+    <td>1,064</td>
+    <td>46,169</td>
   </tr>
   <tr>
     <td rowspan="2">Y</td>
     <td rowspan="2">Y</td>
-    <td>44,091</td>
-    <td>3,142</td>
-    <td rowspan="2">0.56</td>
-    <td rowspan="2">0.90</td>
-  </tr>
-  <tr>
-    <td>7,151</td>
     <td>1,677</td>
+    <td>7,151</td>
+    <td rowspan="2">0.16</td>
+    <td rowspan="2">0.25</td>
+  </tr>
+  <tr>
+    <td>3,142</td>
+    <td>44,091</td>
   </tr>
   <tr>
     <td rowspan="2">N</td>
     <td rowspan="2">N</td>
-    <td>38,501</td>
-    <td>615</td>
-    <td rowspan="2">0.53</td>
-    <td rowspan="2">0.91</td>
-  </tr>
-  <tr>
-    <td>6,694</td>
     <td>484</td>
+    <td>6,694</td>
+    <td rowspan="2">0.12</td>
+    <td rowspan="2">0.12</td>
+  </tr>
+  <tr>
+    <td>615</td>
+    <td>38,501</td>
   </tr>
   <tr>
     <td rowspan="2">Y</td>
     <td rowspan="2">N</td>
-    <td>36,804</td>
-    <td>2,312</td>
-    <td rowspan="2">0.55</td>
-    <td rowspan="2">0.90</td>
+    <td>1,155</td>
+    <td>6,023</td>
+    <td rowspan="2">0.14</td>
+    <td rowspan="2">0.22</td>
   </tr>
   <tr>
-    <td>6,023</td>
-    <td>1,155</td>
+    <td>2,312</td>
+    <td>36,804</td>
   </tr>
       <tr>
     <td rowspan="8"><strong>DNN</strong></td>
     <td rowspan="2">N</td>
     <td rowspan="2">Y</td>
-    <td>46,862</td>
-    <td>371</td>
-    <td rowspan="2">0.894</td>
-    <td rowspan="2">0.91</td>
-  </tr>
-  <tr>
-    <td>8,518</td>
     <td>310</td>
+    <td>8,518</td>
+    <td rowspan="2">0.1</td>
+    <td rowspan="2">0.07</td>
+  </tr>
+  <tr>
+    <td>371</td>
+    <td>46,862</td>
   </tr>
   <tr>
     <td rowspan="2">Y</td>
     <td rowspan="2">Y</td>
-    <td>33,470</td>
-    <td>12,763</td>
-    <td rowspan="2">0.759</td>
-    <td rowspan="2">0.80</td>
+    <td>5,737</td>
+    <td>3,091</td>
+    <td rowspan="2">0.32</td>
+    <td rowspan="2">0.44</td>
   </tr>
   <tr>
-    <td>3,991</td>
-    <td>4,837</td>
+    <td>11,263</td>
+    <td>34,970</td>
   </tr>
   <tr>
     <td rowspan="2">N</td>
     <td rowspan="2">N</td>
-    <td>39,116</td>
-    <td>0</td>
-    <td rowspan="2">0.893</td>
-    <td rowspan="2">0.92</td>
+    <td>75</td>
+    <td>7,103</td>
+    <td rowspan="2">0.04</td>
+    <td rowspan="2">0.02</td>
   </tr>
   <tr>
-    <td>7,178</td>
-    <td>0</td>
+    <td>114</td>
+    <td>39,002</td>
   </tr>
   <tr>
     <td rowspan="2">Y</td>
     <td rowspan="2">N</td>
-    <td>27,597</td>
-    <td>11,519</td>
-    <td rowspan="2">0.747</td>
-    <td rowspan="2">0.79</td>
+    <td>4,202</td>
+    <td>2,976</td>
+    <td rowspan="2">0.23</td>
+    <td rowspan="2">0.38</td>
   </tr>
   <tr>
-    <td>3,376</td>
-    <td>3,802</td>
+    <td>11,019</td>
+    <td>28,097</td>
   </tr>
 </tbody>
 </table>
+
 
 
 
