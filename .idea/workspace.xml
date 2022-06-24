@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1912acc-4e82-4a4f-b654-f9632342bf05" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Demo_Figure_test-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Part1_Data_Clean-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Part1_Data_Clean-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/For TESTING.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/For TESTING.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Part3_Logistic_Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Part3_Logistic_Model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Part1_Data_Clean.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Part1_Data_Clean.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Part4_RF_Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Part4_RF_Model.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Part5_DNN_Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Part5_DNN_Model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/LCDataDictionary.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Data/LCDataDictionary.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Figures/DNN_roc_no_smote_outliers.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/DNN_roc_no_smote_outliers.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/RF_outliers_smote.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/RF_outliers_smote.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Figures/log_roc_outliers_no_smote.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/log_roc_outliers_no_smote.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +142,7 @@
       <workItem from="1655795740622" duration="1238000" />
       <workItem from="1655882985742" duration="652000" />
       <workItem from="1655984124197" duration="650000" />
-      <workItem from="1656055645962" duration="756000" />
+      <workItem from="1656055645962" duration="1858000" />
     </task>
     <servers />
   </component>
