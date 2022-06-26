@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1912acc-4e82-4a4f-b654-f9632342bf05" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Part1_Data_Clean-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Part1_Data_Clean-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Figures_EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Figures_EDA.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/For TESTING.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/For TESTING.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Part1_Data_Clean.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Part1_Data_Clean.ipynb" afterDir="false" />
@@ -142,7 +142,8 @@
       <workItem from="1655882985742" duration="652000" />
       <workItem from="1655984124197" duration="650000" />
       <workItem from="1656055645962" duration="1858000" />
-      <workItem from="1656156708563" duration="431000" />
+      <workItem from="1656156708563" duration="1046000" />
+      <workItem from="1656167199392" duration="628000" />
     </task>
     <servers />
   </component>
