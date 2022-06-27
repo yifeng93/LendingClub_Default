@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/Code/Part1_Data_Clean.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Part1_Data_Clean.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Part4_RF_Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Part4_RF_Model.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Part5_DNN_Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Part5_DNN_Model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/RF-VI.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/RF-VI.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/LCDataDictionary.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Data/LCDataDictionary.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Figures/DNN_roc_no_smote_outliers.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/DNN_roc_no_smote_outliers.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Figures/RF_outliers_smote.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/RF_outliers_smote.png" afterDir="false" />
@@ -144,6 +145,8 @@
       <workItem from="1656055645962" duration="1858000" />
       <workItem from="1656156708563" duration="1046000" />
       <workItem from="1656167199392" duration="628000" />
+      <workItem from="1656315084581" duration="1839000" />
+      <workItem from="1656331365928" duration="619000" />
     </task>
     <servers />
   </component>
