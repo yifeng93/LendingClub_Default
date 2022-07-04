@@ -1,6 +1,6 @@
 [toc]
 
-**中文版本**：[简体中文](README_zh.md)
+# 中文版本：[简体中文](README_zh.md)
 
 # ESE_MSc_Thesis
 
