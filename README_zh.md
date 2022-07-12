@@ -14,9 +14,9 @@
 
 ### 文件列表
 
-1. IT私塾数据清洗专项课：数据清洗jupyter notebook
+1. IT私塾数据清洗专项课：[数据清洗jupyter notebook](./Code/IT私塾_数据预处理直播.ipynb)
 2. IT私塾数据清洗专项课：逻辑回归jupyter notebook
-3. IT私塾数据清洗专项课：LendingClub 2018年数据
+3. IT私塾数据清洗专项课：[LendingClub 2018年数据](./Data/IT_2018.pkl);  [LendingClub_2018清洗后的干净数据](./Data/IT_2018_数据处理.pkl)
 
 ### 模型成绩
 
